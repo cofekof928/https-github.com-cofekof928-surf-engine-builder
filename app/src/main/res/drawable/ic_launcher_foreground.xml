@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Globe/Research circular stylized network behind -->
+    <path
+        android:strokeColor="#4DD0E1"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,24 A26,26 0 1,1 54,76 A26,26 0 1,1 54,24" />
+    <path
+        android:strokeColor="#26A69A"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,24 L54,76 M28,50 L80,50" />
+    <path
+        android:strokeColor="#26A69A"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M34,38 Q54,18 74,38 Z" />
+    <path
+        android:strokeColor="#26A69A"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M34,62 Q54,42 74,62 Z" />
+
+    <!-- Magnifying Glass for Research -->
+    <!-- Lens outer ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,45 C73.284,45 80,38.284 80,30 C80,21.716 73.284,15 65,15 C56.716,15 50,21.716 50,30 C50,38.284 56.716,45 65,45 Z" />
+    <!-- Lens inner hole -->
+    <path
+        android:fillColor="#152430"
+        android:pathData="M65,40 C70.523,40 75,35.523 75,30 C75,24.477 70.523,20 65,20 C59.477,20 55,24.477 55,30 C55,35.523 59.477,40 65,40 Z" />
+    <!-- Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M58,37 L40,55" />
+    <path
+        android:strokeColor="#4DD0E1"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M40,55 L32,63" />
+</vector>

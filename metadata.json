@@ -1,0 +1,6 @@
+{
+  "name": "Research",
+  "description": "متصفح ذكي يحتوي على محرك بحث مدمج للبحث العلمي والتحليل المدعوم بالذكاء الاصطناعي - Research Browser",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
